@@ -1,3 +1,5 @@
-# hello-world-chrome-extension
+# chrome-hello-world-extension
 
-A simple hello-world extension implementation for Google Chrome browser.
+it is the simple hello-world extension for Google Chrome browser.
+
+downlaod and import into developer mode for test and modify 
